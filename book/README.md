@@ -1,7 +1,7 @@
 ﻿
 ##物聯網相關博客集
 
-###嵌入式乙太網
+###嵌入式乙太網路
 
 【[嵌入式 TCP IP 資料匯總](http://blog.csdn.net/xukai871105/article/details/8568612)】   
 
@@ -12,8 +12,7 @@
 【[第3部分](http://blog.csdn.net/xukai871105/article/details/14345709)】
 【[第4部分](http://blog.csdn.net/xukai871105/article/details/14461741) 】
 
-###STM32NET學習筆記
-   
+###STM32NET學習筆記   
 【[STM32NET學習筆記——ARP和Ethernet部分](http://blog.csdn.net/xukai871105/article/details/17564487)】
 
 【[STM32NET學習筆記——IPICMP部分](http://blog.csdn.net/xukai871105/article/details/19938133)】
@@ -48,7 +47,7 @@
 
 【[contiki CC2530CC2430例子描述](http://blog.csdn.net/xukai871105/article/details/9207203) 】
 
-##協議與標準
+##協定與標準
 
 ###【JSON】
 
@@ -59,11 +58,11 @@
 【[前端學習——JSON格式詳解](http://blog.csdn.net/xukai871105/article/details/32346797)】
 
 ###【REST】
-【[樹莓派學習筆記——Restful服務 採用slim php apache](http://blog.csdn.net/xukai871105/article/details/19763683)】
+【[樹莓派學習筆記——RESTful服務 採用slim php apache](http://blog.csdn.net/xukai871105/article/details/19763683)】
 
 【[PHP再學習4——slim框架學習和使用](http://blog.csdn.net/xukai871105/article/details/18677215)】
 
-【[PHP再學習5——RESTFul框架遠程控制LED](http://blog.csdn.net/xukai871105/article/details/18775957)】
+【[PHP再學習5——RESTful框架遠程控制LED](http://blog.csdn.net/xukai871105/article/details/18775957)】
 
 ###【CoAP】
 
@@ -109,9 +108,9 @@
 ###【雲平台】
 【[物聯網學習筆記——京東雲擎初體驗部署REST服務](http://blog.csdn.net/xukai871105/article/details/21194491)】 
 
-【[物聯網學習筆記——構建RESTFul平台1](http://blog.csdn.net/xukai871105/article/details/18862569)】
+【[物聯網學習筆記——構建RESTful平台1](http://blog.csdn.net/xukai871105/article/details/18862569)】
 
-【[物聯網學習筆記——構建RESTFul平台2](http://blog.csdn.net/xukai871105/article/details/20399661)】
+【[物聯網學習筆記——構建RESTful平台2](http://blog.csdn.net/xukai871105/article/details/20399661)】
 
 
 
@@ -162,7 +161,7 @@
 
 [CoAP與物聯網系統之返回XML][returnxml]
 
-[IoT CoAP 塊傳輸——使用Block傳輸數據][iotblock]
+[IoT CoAP 區塊傳輸——使用Block傳輸數據][iotblock]
 
 [構建基於CoAP SQLite Nodejs的物聯網之查詢數據][querydb]
 

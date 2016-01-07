@@ -1,143 +1,143 @@
+﻿
+##物聯網相關博客集
 
-##物联网相关博客集
+###嵌入式乙太網
 
-###嵌入式以太网
+【[嵌入式 TCP IP 資料匯總](http://blog.csdn.net/xukai871105/article/details/8568612)】   
 
-【[嵌入式 TCP IP 资料汇总](http://blog.csdn.net/xukai871105/article/details/8568612)】   
-
-###【ENC28J60学习笔记——索引】
+###【ENC28J60學習筆記——索引】
 
 【[第1部分](http://blog.csdn.net/xukai871105/article/details/13931833)】
 【[第2部分](http://blog.csdn.net/xukai871105/article/details/14092167)】
 【[第3部分](http://blog.csdn.net/xukai871105/article/details/14345709)】
 【[第4部分](http://blog.csdn.net/xukai871105/article/details/14461741) 】
 
-###STM32NET学习笔记
+###STM32NET學習筆記
    
-【[STM32NET学习笔记——ARP和Ethernet部分](http://blog.csdn.net/xukai871105/article/details/17564487)】
+【[STM32NET學習筆記——ARP和Ethernet部分](http://blog.csdn.net/xukai871105/article/details/17564487)】
 
-【[STM32NET学习笔记——IPICMP部分](http://blog.csdn.net/xukai871105/article/details/19938133)】
+【[STM32NET學習筆記——IPICMP部分](http://blog.csdn.net/xukai871105/article/details/19938133)】
  
-【[STM32NET学习笔记——UDP部分](http://blog.csdn.net/xukai871105/article/details/23085679)】
+【[STM32NET學習筆記——UDP部分](http://blog.csdn.net/xukai871105/article/details/23085679)】
 
-【[STM32NET学习笔记——TCP部分](http://blog.csdn.net/xukai871105/article/details/37729201)】
+【[STM32NET學習筆記——TCP部分](http://blog.csdn.net/xukai871105/article/details/37729201)】
 
-【[uIP学习笔记](http://blog.csdn.net/xukai871105/article/details/17471865)】
+【[uIP學習筆記](http://blog.csdn.net/xukai871105/article/details/17471865)】
 
-【[LwIP学习笔记——STM32ENC28J60移植与入门](http://blog.csdn.net/xukai871105/article/details/37995079)】
+【[LwIP學習筆記——STM32ENC28J60移植與入門](http://blog.csdn.net/xukai871105/article/details/37995079)】
 
-###【contiki相关】
+###【contiki相關】
 
-【[CC2530 RF部分使用——实现点对点收发](http://blog.csdn.net/xukai871105/article/details/9897695)】
+【[CC2530 RF部分使用——實現點對點收發](http://blog.csdn.net/xukai871105/article/details/9897695)】
 
-【[Instant Contiki安装笔记——SDCC和CC2530](http://blog.csdn.net/xukai871105/article/details/9204101)】 
+【[Instant Contiki安装筆記——SDCC和CC2530](http://blog.csdn.net/xukai871105/article/details/9204101)】 
 
-【[contiki学习笔记——cc2530dk例程实践和UDP重启问题解决](http://blog.csdn.net/xukai871105/article/details/23626437)】
+【[contiki學習筆記——cc2530dk例程實踐和UDP重啟問題解決](http://blog.csdn.net/xukai871105/article/details/23626437)】
 
-【[contiki学习笔记——IAR工程合集](http://blog.csdn.net/xukai871105/article/details/9866261)】
+【[contiki學習筆記——IAR工程合集](http://blog.csdn.net/xukai871105/article/details/9866261)】
 
-【[contikiSTM32移植](http://blog.csdn.net/xukai871105/article/details/7482858) 】
+【[contiki STM32移植](http://blog.csdn.net/xukai871105/article/details/7482858) 】
 
-【[contiki学习笔记spi部分解析](http://blog.csdn.net/xukai871105/article/details/9098417) 】
+【[contiki學習筆記spi部分解析](http://blog.csdn.net/xukai871105/article/details/9098417) 】
 
-【[contiki学习笔记clock部分](http://blog.csdn.net/xukai871105/article/details/9108093) 】
+【[contiki學習筆記clock部分](http://blog.csdn.net/xukai871105/article/details/9108093) 】
 
-【[contiki 学习笔记leds实现部分](http://blog.csdn.net/xukai871105/article/details/9115545) 】
+【[contiki學習筆記led實現部分](http://blog.csdn.net/xukai871105/article/details/9115545) 】
 
-【[contiki学习笔记etimer部分](http://blog.csdn.net/xukai871105/article/details/9152525) 】
+【[contiki學習筆記etimer部分](http://blog.csdn.net/xukai871105/article/details/9152525) 】
 
 【[contiki CC2530CC2430例子描述](http://blog.csdn.net/xukai871105/article/details/9207203) 】
 
-##协议与标准
+##協議與標準
 
 ###【JSON】
 
-【[cJSON学习笔记](http://blog.csdn.net/xukai871105/article/details/17094113)】
+【[cJSON學習筆記](http://blog.csdn.net/xukai871105/article/details/17094113)】
 
-【[cJSON学习笔记续集](http://blog.csdn.net/xukai871105/article/details/33013455)】   
+【[cJSON學習筆記續集](http://blog.csdn.net/xukai871105/article/details/33013455)】   
 
-【[前端学习——JSON格式详解](http://blog.csdn.net/xukai871105/article/details/32346797)】
+【[前端學習——JSON格式詳解](http://blog.csdn.net/xukai871105/article/details/32346797)】
 
 ###【REST】
-【[树莓派学习笔记——Restful服务 采用slim php apache](http://blog.csdn.net/xukai871105/article/details/19763683)】
+【[樹莓派學習筆記——Restful服務 採用slim php apache](http://blog.csdn.net/xukai871105/article/details/19763683)】
 
-【[PHP再学习4——slim框架学习和使用](http://blog.csdn.net/xukai871105/article/details/18677215)】
+【[PHP再學習4——slim框架學習和使用](http://blog.csdn.net/xukai871105/article/details/18677215)】
 
-【[PHP再学习5——RESTFul框架远程控制LED](http://blog.csdn.net/xukai871105/article/details/18775957)】
+【[PHP再學習5——RESTFul框架遠程控制LED](http://blog.csdn.net/xukai871105/article/details/18775957)】
 
 ###【CoAP】
 
-【[CoAP学习笔记——CoAP基础](http://blog.csdn.net/xukai871105/article/details/17734163)】
+【[CoAP學習筆記——CoAP基礎](http://blog.csdn.net/xukai871105/article/details/17734163)】
 
-【[CoAP学习笔记——CoAP资源发现](http://blog.csdn.net/xukai871105/article/details/17765919)】
+【[CoAP學習筆記——CoAP資源發現](http://blog.csdn.net/xukai871105/article/details/17765919)】
 
-【[CoAP学习笔记——服务器端繁忙时的处理请求流程](http://blog.csdn.net/xukai871105/article/details/17766051)】
+【[CoAP學習筆記——服務器端繁忙時的處理請求流程](http://blog.csdn.net/xukai871105/article/details/17766051)】
 
-【[CoAP学习笔记——nodeJS node-coap安装和使用(Linux平台)](http://blog.csdn.net/xukai871105/article/details/39120399)】
+【[CoAP學習筆記——nodeJS node-coap安装和使用(Linux平台)](http://blog.csdn.net/xukai871105/article/details/39120399)】
 
-【[CoAP学习笔记——nodeJS node-coap安装和使用(windows平台)](http://blog.csdn.net/xukai871105/article/details/39120435)】
+【[CoAP學習筆記——nodeJS node-coap安装和使用(windows平台)](http://blog.csdn.net/xukai871105/article/details/39120435)】
 
-【[CoAP学习笔记——nodeJS node-coap返回JSON数据包](http://blog.csdn.net/xukai871105/article/details/39213061)】
+【[CoAP學習筆記——nodeJS node-coap返回JSON數據包](http://blog.csdn.net/xukai871105/article/details/39213061)】
 
 ###【MQTT】
 
-【[MQTT学习笔记——MQTT协议体验 Mosquitto安装和使用](http://blog.csdn.net/xukai871105/article/details/39252653)】
+【[MQTT學習筆記——MQTT協議體驗 Mosquitto安装和使用](http://blog.csdn.net/xukai871105/article/details/39252653)】
 
-【[MQTT学习笔记——树莓派MQTT客户端 使用Mosquitto和paho-python](http://blog.csdn.net/xukai871105/article/details/39255089)】
+【[MQTT學習筆記——樹莓派MQTT客户端 使用Mosquitto和paho-python](http://blog.csdn.net/xukai871105/article/details/39255089)】
 
-【[MQTT学习笔记——Yeelink MQTT服务 使用mqtt.js和paho-mqtt](http://blog.csdn.net/xukai871105/article/details/39346461)】
+【[MQTT學習筆記——Yeelink MQTT服務 使用mqtt.js和paho-mqtt](http://blog.csdn.net/xukai871105/article/details/39346461)】
 
 ###【WebSocket】
-【[WebSocket学习笔记——无痛入门](http://blog.csdn.net/xukai871105/article/details/23301213) 】
+【[WebSocket學習筆記——無痛入門](http://blog.csdn.net/xukai871105/article/details/23301213) 】
 
 ###【cURL】
-【[cURL安装和使用笔记](http://blog.csdn.net/xukai871105/article/details/9323761)】
+【[cURL安装和使用筆記](http://blog.csdn.net/xukai871105/article/details/9323761)】
 
-【[cURL学习笔记——结合yeelink平台](http://blog.csdn.net/xukai871105/article/details/17173771) 】
+【[cURL學習筆記——结合yeelink平台](http://blog.csdn.net/xukai871105/article/details/17173771) 】
 
 ####【yeelink】
-【[Yeelink Http请求格式分析](http://blog.csdn.net/xukai871105/article/details/8607338)】
+【[Yeelink Http請求格式分析](http://blog.csdn.net/xukai871105/article/details/8607338)】
 
-【[Yeelink平台查询开关量——套接字编程 Windows平台](http://blog.csdn.net/xukai871105/article/details/17096319) 】
+【[Yeelink平台查詢開關量——套接字編程 Windows平台](http://blog.csdn.net/xukai871105/article/details/17096319) 】
 
-【[Yeelink平台推送传感器结果——套接字编程 Windows平台](http://blog.csdn.net/xukai871105/article/details/23543349)】
+【[Yeelink平台推送傳感器結果——套接字編程 Windows平台](http://blog.csdn.net/xukai871105/article/details/23543349)】
 
-【[Yeelink平台使用——远程控制 RT Thread + LwIP+ STM32](http://blog.csdn.net/xukai871105/article/details/17101131) 】
+【[Yeelink平台使用——遠程控制 RT Thread + LwIP+ STM32](http://blog.csdn.net/xukai871105/article/details/17101131) 】
 
-【[树莓派学习笔记——yeelink远程控制LED](http://blog.csdn.net/xukai871105/article/details/18624307) 】
+【[樹莓派學習筆記——yeelink遠程控制LED](http://blog.csdn.net/xukai871105/article/details/18624307) 】
 
-###【云平台】
-【[物联网学习笔记——京东云擎初体验部署REST服务](http://blog.csdn.net/xukai871105/article/details/21194491)】 
+###【雲平台】
+【[物聯網學習筆記——京東雲擎初體驗部署REST服務](http://blog.csdn.net/xukai871105/article/details/21194491)】 
 
-【[物联网学习笔记——构建RESTFul平台1](http://blog.csdn.net/xukai871105/article/details/18862569)】
+【[物聯網學習筆記——構建RESTFul平台1](http://blog.csdn.net/xukai871105/article/details/18862569)】
 
-【[物联网学习笔记——构建RESTFul平台2](http://blog.csdn.net/xukai871105/article/details/20399661)】
+【[物聯網學習筆記——構建RESTFul平台2](http://blog.csdn.net/xukai871105/article/details/20399661)】
 
 
 
 ##Phodal
 
-[一个最小的物联网系统设计方案及源码][2]
+[一個最小的物聯網系統設計方案及源碼][2]
 
-[最小物联网系统（一）——系统组成][4]
+[最小物聯網系統（一）——系统组成][4]
 
-[最小物联网系统（二）——RESTful][5]
+[最小物聯網系統（二）——RESTful][5]
 
-[最小物联网系统（三）——创建RESTful][6]
+[最小物聯網系統（三）——創建RESTful][6]
 
-[最小物联网系统（四）——详解Laravel的RESTful][7]
+[最小物聯網系統（四）——詳解Laravel的RESTful][7]
 
-[最小物联网系统（五）——Laravel RESTful模板化][8]
+[最小物聯網系統（五）——Laravel RESTful模板化][8]
 
-[最小物联网系统（六）——Ajax打造可视化][9]
+[最小物聯網系統（六）——Ajax打造可視化][9]
 
-[最小物联网系统（七）——与服务器通讯][10]
+[最小物聯網系統（七）——與服務器通訊][10]
 
-[最小物联网系统（八）——与单片机通讯][11]
+[最小物聯網系統（八）——與單晶片通訊][11]
 
-[最小物联网系统（九）——Android客户端][12]
+[最小物聯網系統（九）——Android客戶端][12]
 
-[最小物联网系统设计——给Laravel添加测试][15]
+[最小物聯網系統設計——给Laravel添加測試][15]
 
 [2]:http://www.phodal.com/blog/bare-minimum-iot
 [4]:http://www.phodal.com/blog/bare-minimum-iot-system-structure/
@@ -154,19 +154,19 @@
 
 ###CoAP
 
-[CoAP与物联网系统][basic]
+[CoAP與物聯網系統][basic]
 
-[物联网系统与CoAP之Hello,World][hello]
+[物聯網系統與CoAP之Hello,World][hello]
 
-[CoAP与物联网系统之返回JSON][returnjson]
+[CoAP與物聯網系統之返回JSON][returnjson]
 
-[CoAP与物联网系统之返回XML][returnxml]
+[CoAP與物聯網系統之返回XML][returnxml]
 
-[IoT CoAP 块传输——使用Block传输数据][iotblock]
+[IoT CoAP 塊傳輸——使用Block傳輸數據][iotblock]
 
-[构建基于CoAP SQLite Nodejs的物联网之查询数据][querydb]
+[構建基於CoAP SQLite Nodejs的物聯網之查詢數據][querydb]
 
-[构建基于CoAP SQLite Nodejs的物联网之数据库][db]
+[構建基於CoAP SQLite Nodejs的物聯網之數據庫][db]
 
 [basic]: http://www.phodal.com/blog/use-constrained-application-protocol-in-internet-of-things/
 [hello]: http://www.phodal.com/blog/use-node-coap-create-a-coap-server/

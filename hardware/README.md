@@ -1,10 +1,21 @@
 #物聯網晶片介紹
+
 ##MCU
 
+Product  |	CPU  |	RAM |	Flash |	RJ45 |	Wifi |	GPIO |	Analog |	價格(US) |
+----------|---------|---------|---------|---------|---------|---------|---------|---------|
+[Arduino UNO R3](./MCU/Arduino.md) |	ATmega328P:16MB | 2KB | 32KB | NO| NO| 14 | 6 | $19.95
+[ESP8266-ESP-01](./MCU/ESP8266.md) |	26MHz |	CLI:64KB,Data:96KB |  1MB |	YES | NO | 3 | 0 | $6.99 
 
 
 
 ##MPU
+
+Product |	CPU  |	RAM |	Flash |	RJ45 |	Wifi |	GPIO |	Analog |	價格(US) |
+----------|---------|---------|---------|---------|---------|---------|---------|---------|
+
+
+
 
 
 

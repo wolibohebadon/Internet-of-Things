@@ -1,4 +1,7 @@
 #Arduino 
+
+![Arduino](./images/arduino.jpg)
+
 Product | Arduino UNO R3  
 ---------|---------|
 CPU |	ATmega328P:16MHZ 

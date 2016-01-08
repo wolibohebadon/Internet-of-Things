@@ -1,6 +1,14 @@
 #物聯網晶片介紹
 
-##MCU
+
+CPU發展出來三個分枝為DSP、MCU、MPU。以下開始解是他們的用途與特性。
+主要特性如下
+
+##DSP:
+運算能力較強以及擅長很多重複數據運算
+
+##MCU:
+最大特點在於它的通用性，反應在指令集和尋址模式中。
 
 Product  |	CPU  |	RAM |	Flash |	RJ45 |	Wifi |	GPIO |	A/D |	$USD |
 ------------|---------|---------|---------|---------|---------|---------|---------|---------|
@@ -9,11 +17,18 @@ Product  |	CPU  |	RAM |	Flash |	RJ45 |	Wifi |	GPIO |	A/D |	$USD |
 
 
 
-##MPU
+##MPU:
+適合不同信息源的多種數據的處理診斷和運算，速度並不如DSP
 
-Product |	CPU  |	RAM |	Flash |	RJ45 |	Wifi |	GPIO |	Analog |	US) |
+
+Product |	CPU  |	RAM |	SPI |	RJ45 |	Wifi |	GPIO |	USB |	$USD 
 ----------|---------|---------|---------|---------|---------|---------|---------|---------|
-
+Respberry PI A |	ARM1176JZF-S700MHz (單核心)  |	256MB |	No |	No |	No |	17 |	1 |	25 
+Respberry PI A+ |	ARM1176JZF-S700MHz (單核心)  |	256MB |	No |	No |	No |	17 |	1 |	20 
+Respberry PI B |	ARM1176JZF-S700MHz (單核心)  |	512MB |	No |	YES |	No |	17 |	2 |	35 
+Respberry PI B+ |	ARM Cortex-A7 (ARMv7系列) 900MHz  |	512MB |	No |	YES |	No |	17 |	4 |	35 
+Respberry PI 2 B+ |	ARM1176JZF-S700MHz (單核心)  |	1024MB |	YES |	YES |	No |	17 |	4 |	35 
+Raspberry Pi Zero |	Broadcom BCM2835 1GHz   |	512MB |	YES |	YES |	No |	17 |Micro-USB*1 | 5 
 
 
 

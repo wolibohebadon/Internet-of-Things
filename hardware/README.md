@@ -2,10 +2,10 @@
 
 ##MCU
 
-Product  |	CPU  |	RAM |	Flash |	RJ45 |	Wifi |	GPIO |	A/D |	價格(US) |
+Product  |	CPU  |	RAM |	Flash |	RJ45 |	Wifi |	GPIO |	A/D |	$USD |
 ----------|---------|---------|---------|---------|---------|---------|---------|---------|
-[Arduino UNO R3](./MCU/Arduino.md) |	ATmega328P   16MB | 2KB | 32KB | NO| NO| 14 | 6 | $19.95
-[ESP8266-ESP-01](./MCU/ESP8266.md) |	26MHz |	CLI:64KB   Data:96KB |  1MB |	NO | YES | 3 | 0 | $6.99 
+[Arduino UNO R3](./MCU/Arduino.md) |	ATmega328P   16MB | 2KB | 32KB | NO| NO| 14 | 6 | 19.95
+[ESP8266-ESP-01](./MCU/ESP8266.md) |	26MHz |	CLI:64KB   Data:96KB |  1MB |	NO | YES | 3 | 0 | 6.99 
 
 
 

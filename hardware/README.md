@@ -26,8 +26,8 @@ Product |	CPU  |	RAM |	SPI |	RJ45 |	Wifi |	GPIO |	USB |	$USD
 Respberry PI A |	ARM1176JZF-S700MHz (單核心)  |	256MB |	No |	No |	No |	17 |	1 |	25 
 Respberry PI A+ |	ARM1176JZF-S700MHz (單核心)  |	256MB |	No |	No |	No |	17 |	1 |	20 
 Respberry PI B |	ARM1176JZF-S700MHz (單核心)  |	512MB |	No |	YES |	No |	17 |	2 |	35 
-Respberry PI B+ |	ARM Cortex-A7 (ARMv7系列) 900MHz  |	512MB |	No |	YES |	No |	17 |	4 |	35 
-Respberry PI 2 B+ |	ARM1176JZF-S700MHz (單核心)  |	1024MB |	YES |	YES |	No |	17 |	4 |	35 
+Respberry PI B+ |	ARM1176JZF-S700MHz (單核心)  |	512MB |	No |	YES |	No |	17 |	4 |	35 
+Respberry PI 2 B+ |	ARM Cortex-A7 (ARMv7系列) 900MHz  |	1024MB |	YES |	YES |	No |	17 |	4 |	35 
 Raspberry Pi Zero |	Broadcom BCM2835 1GHz   |	512MB |	YES |	YES |	No |	17 |Micro-USB*1 | 5 
 
 

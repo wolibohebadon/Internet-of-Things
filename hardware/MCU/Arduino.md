@@ -1,4 +1,4 @@
-#Arduino 
+#Arduino Uno R3 
 Product | Arduino UNO R3  
 ---------|---------|
 CPU |	ATmega328P:16MHZ 

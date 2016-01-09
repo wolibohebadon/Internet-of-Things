@@ -1,2 +1,2 @@
-# Platform
+# 平台(Platform)
 

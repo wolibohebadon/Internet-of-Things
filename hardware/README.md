@@ -1,4 +1,4 @@
-# Hardware
+# 硬體(Hardware)
 
 #物聯網晶片介紹
 

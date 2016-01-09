@@ -7,16 +7,16 @@
  Bluetooth | Bluetooth(formerly IEEE802.15.1) | WPAN | 2400-2483.5MHz | 100m | 1-3Mb/s | 1W | 56/128-bit 
  Bluetooth Smart(BLE) | IoT Interconnect | WPAN | 2400-2483.5MHz | 35m | 1Mb/s | 10mW | 128-bit AES 
  Zigbee | IEEE802.15.4 | Mesh | 2400-2483.5MHz | 160m | 250kb/s | 100mW | 128-bit AES 
- THREAD | 1:7 | 2:7 | 3:7 | 4:7 | 5:7 | 6:7 | 128-bit AES 
- RFID | 1:9 | 2:9 | 3:9 | 4:9 | 5:9 | 6:9 | possible 
- NFC | 1:10 | 2:10 | 3:10 | 4:10 | 5:10 | 6:10 | possible 
- GPRS(2G) | 1:11 | 2:11 | 3:11 | 4:11 | 5:11 | 6:11 | GEA2/GEA3/GEA4 
- EDGE(2G) | 1:12 | 2:12 | 3:12 | 4:12 | 5:12 | 6:12 | A5/4,A5/3 
- UMTS(3G)HSDPA/HSUPA | 1:13 | 2:13 | 3:13 | 4:13 | 5:13 | 6:13 | USIM 
- LTE(4G) | 1:14 | 2:14 | 3:14 | 4:14 | 5:14 | 6:14 | SNOW 3G Stream Cipher 
- ANT+ | 1:15 | 2:15 | 3:15 | 4:15 | 5:15 | 6:15 | AES-128 
- Cognitive Radio | 1:16 | 2:16 | 3:16 | 4:16 | 5:16 | 6:16 | AES-GCM 
- Weightless | 1:16 | 2:16 | 3:16 | 4:16 | 5:16 | 6:16 | 128-bit 
+ THREAD | IEEE802.15.4 + 6LoWPAN | Mesh| 2400-2483.5MHz | 160m | 250kb/s | 100mW | 128-bit AES 
+ RFID | Many | P2P | 13.56MHz,etc | 1m | 423kb/s | -1mW | possible 
+ NFC | ISO/IEC 13157 & etc | P2P | 13.56MHz | 0.1m | 424kb/s | -1.0mW | possible 
+ GPRS(2G) | 3GPP | GERAN | GSM850/1900MHz | 25km/10km | 171kb/s | 2W/1W | GEA2/GEA3/GEA4 
+ EDGE(2G) | 3GPP | GERAN | GSM850/1900MHz | 26km/10km | 384kb/s | 3W/1W | A5/4,A5/3 
+ UMTS(3G)HSDPA/HSUPA | 3GPP | UTRAN | GSM850/1900MHz | 27km/10km | 0.73-56Mb/s | 4W/1W | USIM 
+ LTE(4G) | 3GPP | GERAN/UTRAN | 700-2600MHz | 28km/10km | 0.1-1Gb/s | 5W/1W | SNOW 3G Stream Cipher 
+ ANT+ | ANT+Alliance | WSN | 2.4GHz | 100m | 1Mb/s | 1mW | AES-128 
+ Cognitive Radio | IEEE 802.22WG | WRAN | 54-862MHz | 100km | 24Mb/s | 1W | AES-GCM 
+ Weightless | Weightless SIG | LPWAN | 700/900MHz | 5km | 0.001-10Mb/s | 40mW/4W | 128-bit 
  
  
  

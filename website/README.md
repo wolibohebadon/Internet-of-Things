@@ -1,15 +1,15 @@
-#物联网相关网站
+#物聯網相關網站
 
-##最小物联网系统: 
+##最小物聯網系統:
 
 [https://github.com/phodal/iot][iot]
 [iot]: https://github.com/phodal/iot
 
 ##Internet Of Things Architecture
 
-首页: [Internet Of Things Architecture](http://www.iot-a.eu/)
+首頁: [Internet Of Things Architecture](http://www.iot-a.eu/)
 
-###微软
+###微軟
 
 [Create the Internet of Your Things](http://www.microsoft.com/windowsembedded/en-us/internet-of-things.aspx)
 
@@ -17,7 +17,7 @@
 
 > Empower your business and gain a competitive edge by connecting data from devices and sensors with the cloud and business intelligence tools.
 
-##IETF CoAP协议
+##IETF CoAP協定
 
 [Constrained Application Protocol (CoAP) draft-ietf-core-coap-18](https://tools.ietf.org/html/draft-ietf-core-coap-18)
 
